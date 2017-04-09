@@ -14,7 +14,7 @@ public class Annotations {
 	public void UseridGeneration()
 	{
 		System.out.println("BeforeMethod - Userid Generation");
-	}
+	} 
  
 	@Test(dataProvider="getData")
 	public void userid(String username, String password)
