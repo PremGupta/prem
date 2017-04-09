@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation testing]">
+  <test name="Smoke test cases(failed)">
+    <classes>
+      <class name="testngFiles.Annotations">
+        <methods>
+          <include name="Cookies"/>
+          <include name="CookiesClose"/>
+          <include name="FlightBooking"/>
+          <include name="BrowserClose"/>
+          <include name="UseridGeneration"/>
+        </methods>
+      </class> <!-- testngFiles.Annotations -->
+    </classes>
+  </test> <!-- Smoke test cases(failed) -->
+</suite> <!-- Failed suite [Automation testing] -->

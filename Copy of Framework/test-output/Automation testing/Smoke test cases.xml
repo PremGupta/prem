@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-U6N7CFLI" name="PackTwo.Annotations" tests="19" failures="0" timestamp="9 Apr 2017 08:30:03 GMT" time="320.542" errors="0">
+  <testcase name="OpeningBrowser" time="110.478" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="FlightBooking" time="0.0" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="OpeningBrowser" time="0.0" classname="testngFiles2.DependencyAnnot"/>
+  <testcase name="FlightBooking" time="0.0" classname="testngFiles2.DependencyAnnot"/>
+  <testcase name="AOpeningBrowser" time="0.0" classname="PackTwo.Annotations"/>
+  <testcase name="FlightBooking" time="0.0" classname="PackTwo.Annotations"/>
+  <testcase name="FlightCancel" time="0.0" classname="PackTwo.Annotations"/>
+  <testcase name="CreditCardPayment" time="0.016" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="LogiPage" time="0.0" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="Login" time="110.542" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="Login" time="99.444" classname="PackTwo.TestBaseClass"/>
+  <testcase name="LogiPage" time="0.0" classname="testngFiles2.DependencyAnnot"/>
+  <testcase name="CreditCardPayment" time="0.0" classname="testngFiles2.DependencyAnnot"/>
+  <testcase name="AOpeningBrowser" time="0.0" classname="testngFiles2.Annotations"/>
+  <testcase name="FlightBooking" time="0.016" classname="testngFiles2.Annotations"/>
+  <testcase name="CodechangecheckJenkin" time="0.0" classname="testngFiles2.Annot2"/>
+  <testcase name="NewTestForJenkin" time="0.0" classname="testngFiles2.Annot2"/>
+  <testcase name="HomePage" time="0.0" classname="PackTwo.DependencyAnnot"/>
+  <testcase name="HomePage" time="0.0" classname="testngFiles2.DependencyAnnot"/>
+</testsuite>
